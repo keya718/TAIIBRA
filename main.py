@@ -1,1 +1,1 @@
-#language:python.
+"hello world"
