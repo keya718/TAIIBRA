@@ -337,7 +337,7 @@
       </block>
     </statement>
   </block>
-  <block type="before_purchase" id="%+t`A3Ok3ejPep[b==*c" x="0" y="792">if wait>5 then proceed with trade
+  <block type="before_purchase" id="%+t`A3Ok3ejPep[b==*c" x="0" y="792">if wait>3 then proceed with trade
     <statement name="BEFOREPURCHASE_STACK">
       <block type="controls_if" id="Ds2uu.%,,xKY/_lSDK!g">
         <value name="IF0">
